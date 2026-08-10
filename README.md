@@ -8,8 +8,10 @@ Vous trouverez des cours de géo, les power-points des séances, les corrections
 Je suis étudiante en géographie et en lettres modernes à la Sorbonne. 
 
 # Cours de Géographie
-[<## Séance 1>](<https://github.com/uknownothinjohnsnow/s1.git>)
-Chapitre introductif
+
+## Séance 1: Chapitre introductif
+[< Séance 1>](<https://github.com/uknownothinjohnsnow/s1.git>)
+
 ## Séance 2: Chapitre 1; Géomorphologie dynamique et climat
 
 Introduction à la géomorphologie

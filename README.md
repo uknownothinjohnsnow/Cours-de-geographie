@@ -21,4 +21,4 @@ Initiation au commentaire de paysages
 
 ### Bibliographie
 
-Armand Frémont, La région espace vécu, flammarion, 2011
+Armand Frémont, La région espace vécu, Flammarion, 2011

@@ -14,6 +14,8 @@ Je suis étudiante en géographie et en lettres modernes à la Sorbonne.
 
 ## Séance 2: Chapitre 1; Géomorphologie dynamique et climat
 
+[<Séance 2>](<https://github.com/uknownothinjohnsnow/S2.git>)
+
 Introduction à la géomorphologie
 Initiation au commentaire de paysages
 

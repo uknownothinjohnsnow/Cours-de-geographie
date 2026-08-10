@@ -1,5 +1,4 @@
 # README
-# README
 
 # Avant-propos
 Bienvenus!

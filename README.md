@@ -25,7 +25,7 @@ Initiation au commentaire de paysages
 
 Armand Frémont, La région espace vécu, Flammarion, 2011
 
-Fort, M., Bétard, F. et Arnaud-Fassetta, G. (2015).Géomorphologie dynamique et environnement. Armand Colin. 
+Fort, M., Bétard, F. et Arnaud-Fassetta, G. (2015). Géomorphologie dynamique et environnement. Armand Colin. 
 
 
 # Préparation au lycée: stage d'été. 

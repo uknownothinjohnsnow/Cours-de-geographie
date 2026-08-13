@@ -4,10 +4,11 @@
 Bienvenus!
 Ce Github est comme un moodle! 
 Vous trouverez des cours de géo, les power-points des séances, les corrections et les dates des devoirs.
-Vous trouverez également des cours pour l'entrée au lycée. 
+Il y a également un espace actualité pour suivre les dernières nouveautés! Il y a également des ressources complémentaires. 
+
 # A propos de moi!
 Je suis étudiante en géographie et en lettres modernes à la Sorbonne. Je donne également des cours de soutient et de méthode.
-Je propose des cours de français, d'anglais, d'espagnol et de géographie. Je propose également un stage de quelques semaine afin de préparer les élèves à la rentrée au lycée. 
+Je propose des cours de français, d'anglais, d'espagnol et de géographie. 
 
 # Cours de Géographie
 

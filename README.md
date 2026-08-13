@@ -21,8 +21,9 @@ Introduction à la géomorphologie
 
 Initiation au commentaire de paysages
 
-
 ### Glossaire 
+
+[Glossaire](<https://github.com/uknownothinjohnsnow/Glossaire.git>)
 
 ### Bibliographie
 

@@ -18,6 +18,8 @@ Je propose des cours de français, d'anglais, d'espagnol et de géographie.
 
 [<Séance 2>](<https://github.com/uknownothinjohnsnow/S2.git>)
 Introduction à la géomorphologie
+I- L'érosion par l'eau solide et liquide
+II- L'érosion éolienne
 
 Initiation au commentaire de paysages
 

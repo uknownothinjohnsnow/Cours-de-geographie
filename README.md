@@ -30,5 +30,6 @@ Initiation au commentaire de paysages
 Armand Frémont, La région espace vécu, Flammarion, 2011
 
 Fort, M., Bétard, F. et Arnaud-Fassetta, G. (2015). Géomorphologie dynamique et environnement. Armand Colin. 
-    Derruau, M. (2010). Les formes du relief terrestre : Notions de géomorphologie. 
+
+Derruau, M. (2010). Les formes du relief terrestre : Notions de géomorphologie. 
 
